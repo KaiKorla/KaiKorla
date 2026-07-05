@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I work at the intersection of governance, security, architecture and operational reality.
+
+My focus is pragmatic technology strategy, responsible security and building systems that remain operable under real-world constraints.
+
+I am particularly interested in:
+- Governance & operationalization
+- Security architecture
+- Digital sovereignty
+- Infrastructure & operational resilience
+- Risk-based technology decisions
